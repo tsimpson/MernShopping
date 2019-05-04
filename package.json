@@ -1,0 +1,22 @@
+{
+  "name": "mernshopping",
+  "version": "1.0.0",
+  "description": "Shopping list built w/MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "start":"node server.js",
+    "server":"nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Travis Simpson",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "concurrently": "^4.1.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
