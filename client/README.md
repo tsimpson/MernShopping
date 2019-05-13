@@ -19,3 +19,9 @@ In the Main Directory, you can use these scripts to start client and server sepa
 ### Together:
 `npm run dev`
 This one uses a package called `concurrently` to run both together, which is nice if you don't want to use multiple terminals.
+
+### Dependencies:
+____
+* redux - state container
+* react-redux - To tie react/redux together
+* redux-thunk - middleware to write action creators that return a function instead of an action.

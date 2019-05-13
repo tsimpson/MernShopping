@@ -11,7 +11,7 @@ _____
 * Nodemon: For Live Server Updates
 
 ____
-## Dependencies:
+### Dependencies:
 ____
 * Concurrently - To run front and backend together
 * body-parser - body parsing middleware
